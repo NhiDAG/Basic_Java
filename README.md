@@ -1,1 +1,1 @@
-# LAB2_correct
+# LAB_OOP
